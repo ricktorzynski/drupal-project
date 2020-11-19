@@ -32,6 +32,7 @@
         "mediacurrent/rain_admin": "^1.0",
         "mediacurrent/rain_demo": "^1.0",
         "mediacurrent/rain_features": "^1.0",
+        "mediacurrent/rain_gatsby": "^1.14",
         "mediacurrent/rain_theme": "^3.0",
         "oomphinc/composer-installers-extender": "^2.0",
         "webflo/drupal-finder": "^1.0.0"
